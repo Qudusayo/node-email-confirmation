@@ -5,7 +5,7 @@ This is a simple way of confirming email by sending a 5 or 6 digit code to the c
 ## Using  this Work
 
 **Clone this repository**  
->``` git clone ```
+>``` git clone https://github.com/Qudusayo/node-email-confirmation.git```
 
 **Install all dependencies**
 >``` npm install ```
